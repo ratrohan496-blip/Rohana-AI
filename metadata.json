@@ -1,0 +1,7 @@
+{
+  "name": "Rohana AI ",
+  "description": "A sleek and responsive chatbot interface that uses the Gemini 2.5 Flash model to provide intelligent and conversational responses to user queries.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
